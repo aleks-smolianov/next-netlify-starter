@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Get started by editing <code>pages/index.js</code>
         </p>
-        <p>this is a very bad example how to lear Next, but this is the way</p>
+        <p>this is a very bad example how to lear Next, but this is the way!</p>
       </main>
 
       <Footer />
